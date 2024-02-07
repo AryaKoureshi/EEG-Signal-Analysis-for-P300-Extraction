@@ -29,7 +29,7 @@ Welcome to the EEG Signal Analysis repository, focusing on the extraction of P30
 
 ### Synchronous Averaging of P300 Response
 <p align=center>
-  <img width="70%" src="Synchronous Averaging of P300 Response.png">
+  <img width="70%" src="Results/Synchronous Averaging of P300 Response.png">
 </p>
 
 ### Maximum Absolute Amplitude vs Number of Averaged Patterns
