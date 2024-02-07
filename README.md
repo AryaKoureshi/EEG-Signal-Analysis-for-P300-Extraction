@@ -25,6 +25,28 @@ Welcome to the EEG Signal Analysis repository, focusing on the extraction of P30
    - Insights into factors influencing the number of repetitions in practical experiments.
    - Adaptation of experimental protocols based on individual variability, task complexity, and signal quality.
 
+## Results:
+
+### Synchronous Averaging of P300 Response
+<p align=center>
+  <img width="70%" src="Synchronous Averaging of P300 Response.png">
+</p>
+
+### Maximum Absolute Amplitude vs Number of Averaged Patterns
+<p align=center>
+  <img width="70%" src="Maximum Absolute Amplitude vs Number of Averaged Patterns.png">
+</p>
+
+### RMSE between (i)th and (i-1)th Mean Patterns vs. Number of Averaged Patterns
+<p align=center>
+  <img width="70%" src="RMSE between (i)th and (i-1)th Mean Patterns vs. Number of Averaged Patterns.png">
+</p>
+
+### Comparison of Average Responses for Different N
+<p align=center>
+  <img width="70%" src="Comparison of Average Responses for Different N.png">
+</p>
+
 ## Instructions:
 
 To replicate the analysis or utilize the provided code for your research:
