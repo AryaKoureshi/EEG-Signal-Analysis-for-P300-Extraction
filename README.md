@@ -34,17 +34,17 @@ Welcome to the EEG Signal Analysis repository, focusing on the extraction of P30
 
 ### Maximum Absolute Amplitude vs Number of Averaged Patterns
 <p align=center>
-  <img width="70%" src="Maximum Absolute Amplitude vs Number of Averaged Patterns.png">
+  <img width="70%" src="Results/Maximum Absolute Amplitude vs Number of Averaged Patterns.png">
 </p>
 
 ### RMSE between (i)th and (i-1)th Mean Patterns vs. Number of Averaged Patterns
 <p align=center>
-  <img width="70%" src="RMSE between (i)th and (i-1)th Mean Patterns vs. Number of Averaged Patterns.png">
+  <img width="70%" src="Results/RMSE between (i)th and (i-1)th Mean Patterns vs. Number of Averaged Patterns.png">
 </p>
 
 ### Comparison of Average Responses for Different N
 <p align=center>
-  <img width="70%" src="Comparison of Average Responses for Different N.png">
+  <img width="70%" src="Resultss/Comparison of Average Responses for Different N.png">
 </p>
 
 ## Instructions:
