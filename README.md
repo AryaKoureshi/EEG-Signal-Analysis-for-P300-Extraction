@@ -44,7 +44,7 @@ Welcome to the EEG Signal Analysis repository, focusing on the extraction of P30
 
 ### Comparison of Average Responses for Different N
 <p align=center>
-  <img width="70%" src="Resultss/Comparison of Average Responses for Different N.png">
+  <img width="70%" src="Results/Comparison of Average Responses for Different N.png">
 </p>
 
 ## Instructions:
